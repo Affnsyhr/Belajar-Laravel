@@ -1,4 +1,4 @@
-# Belajar-Laravel
+# Belajar-Pemrograman PHP
 
 # 📌 Bahasa Pemrograman PHP
 
